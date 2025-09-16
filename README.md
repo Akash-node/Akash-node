@@ -1,6 +1,12 @@
 # 💫 About Me:
-👋 Hi, I'm Akash Negi. I'm currently pursuing MCA with a specialization in Full Stack Development from JECRC University, Jaipur. I completed my BCA and have a 6-month internship experience with hands-on live projects, creating admin panels and databases. Currently, I'm working as a Node.js Backend Developer and have recently developed the backend for an Event Management application. I'm proficient in DevOps
-and Microservices
+👋 Hi, I’m <b>Akash Negi</b>, an MCA student at <i>JECRC University</i>, specializing in the <b>MERN Stack</b>. I’m a passionate Full Stack Developer with a strong interest in <b>backend development</b> and working with both SQL and NoSQL databases.
+
+I enjoy building scalable, efficient, and user-friendly applications, with a particular focus on clean architecture and database design. Beyond my technical skills, I take pride in being a team player who thrives in collaborative environments. I believe in the power of teamwork, effective communication, and continuous learning.
+
+As a great listener and problem solver, I’m always eager to learn from others, share knowledge, and contribute meaningfully to projects that make a real impact. My goal is to grow as a developer while helping teams deliver innovative solutions.
+
+🔹 Interests: Backend Development | Databases | Web Applications | Team Collaboration </br>
+🔹 Tech Skills: JavaScript, Node.js, Express.js, React.js, MongoDB, SQL
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/akash_.negi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akash-negi-264946305) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aakashnegi645@gmail.com) 
